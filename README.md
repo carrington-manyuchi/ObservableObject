@@ -1,0 +1,2 @@
+# ObservableObject
+@StateObject &amp; @ObservableObject
